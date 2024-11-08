@@ -1,0 +1,37 @@
+\contentsline {section}{\numberline {1}sonic of Landau-Lifschitz Formalism of EFE}{3}{section.1}%
+\contentsline {subsection}{\numberline {1.1}EFE in gothic}{4}{subsection.1.1}%
+\contentsline {section}{\numberline {2}energy carried by GWs}{4}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Lightning review of \( \langle \cdot \rangle \) operator}{5}{subsection.2.1}%
+\contentsline {section}{\numberline {3}Slightly different from linearized gravity}{6}{section.3}%
+\contentsline {subsection}{\numberline {3.1} Packaging up the formalism }{6}{subsection.3.1}%
+\contentsline {section}{\numberline {4}BBH GWs}{10}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Level-Matching of asymptotic expansion}{10}{subsection.4.1}%
+\contentsline {subsubsection}{\numberline {4.1.1}Simple example of asymptotic expansion}{10}{subsubsection.4.1.1}%
+\contentsline {subsection}{\numberline {4.2}intermediate regime}{13}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}Composite expansion and comparisons}{14}{subsection.4.3}%
+\contentsline {section}{\numberline {5}Post-Newtonian (PN) theory for GWs}{15}{section.5}%
+\contentsline {subsection}{\numberline {5.1}Commence the PN analysis}{16}{subsection.5.1}%
+\contentsline {subsection}{\numberline {5.2}Near-zone expansion: }{17}{subsection.5.2}%
+\contentsline {subsection}{\numberline {5.3}Exterior zone}{18}{subsection.5.3}%
+\contentsline {subsection}{\numberline {5.4}Multipole Expansions}{18}{subsection.5.4}%
+\contentsline {subsection}{\numberline {5.5}Example: exterior zone}{19}{subsection.5.5}%
+\contentsline {subsection}{\numberline {5.6}Symmetric trace-free tensors (STF)}{19}{subsection.5.6}%
+\contentsline {subsubsection}{\numberline {5.6.1}properties of STF tensors}{20}{subsubsection.5.6.1}%
+\contentsline {subsection}{\numberline {5.7}Example (continued): exterior zone}{20}{subsection.5.7}%
+\contentsline {subsection}{\numberline {5.8}Wave-zone solutions}{21}{subsection.5.8}%
+\contentsline {subsubsection}{\numberline {5.8.1}Properties of Spherical Harmonics}{22}{subsubsection.5.8.1}%
+\contentsline {subsection}{\numberline {5.9}Non linear features in PN theory}{23}{subsection.5.9}%
+\contentsline {subsubsection}{\numberline {5.9.1}Tail effects}{24}{subsubsection.5.9.1}%
+\contentsline {subsubsection}{\numberline {5.9.2}Memory effects}{24}{subsubsection.5.9.2}%
+\contentsline {section}{\numberline {6}Application to a binary system}{25}{section.6}%
+\contentsline {subsubsection}{\numberline {6.0.1}EOM of lagrangian in circular orbits}{26}{subsubsection.6.0.1}%
+\contentsline {subsection}{\numberline {6.1}Inspiral frequency correction at 1PN order}{27}{subsection.6.1}%
+\contentsline {subsubsection}{\numberline {6.1.1}Inspiral time evaluation}{27}{subsubsection.6.1.1}%
+\contentsline {section}{\numberline {7}Compact objects}{28}{section.7}%
+\contentsline {subsection}{\numberline {7.1}Mathematical description of Compact Objects}{30}{subsection.7.1}%
+\contentsline {subsubsection}{\numberline {7.1.1}Neutron stars}{30}{subsubsection.7.1.1}%
+\contentsline {subsubsection}{\numberline {7.1.2}Binary system tidal fields}{30}{subsubsection.7.1.2}%
+\contentsline {subsection}{\numberline {7.2}Compact objects - Non-spinning case}{31}{subsection.7.2}%
+\contentsline {subsection}{\numberline {7.3}Linear tidal response}{32}{subsection.7.3}%
+\contentsline {subsection}{\numberline {7.4}Quadrupole effects in binaries}{33}{subsection.7.4}%
+\contentsline {section}{\numberline {A}BMS-group}{34}{appendix.A}%
